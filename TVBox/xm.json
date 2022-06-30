@@ -2,7 +2,7 @@
 
 {
 "spider":"https://hldmengda.github.io/dsx/TVBox/xm.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9obGRtZW5nZGEuZ2l0aHViLmlvL2RzeC9UVkJveC90di94bS50eHQ=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9obGRtZW5nZGEuZ2l0aHViLmlvL2RzeC9UVkJveC90di94bS50eHQ="]}]}],
 
 
 "sites":[
